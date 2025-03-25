@@ -2,3 +2,6 @@ body{
     background-color: lightgray;
     background-image: url("/assets/images/background-img.jpg");
 }
+h2 {
+    color: orangered;
+}
